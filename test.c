@@ -9,6 +9,7 @@ void salam(int n)
 {
 	printf ("salam\n");
 	vassalam (n-1);
+	//ezafe
 }
 void vassalam(int n)
 {
